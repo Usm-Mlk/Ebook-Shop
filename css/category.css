@@ -1,0 +1,34 @@
+.navbar {
+  background-color: #4cb7ca6c;
+}
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.836), rgba(0, 0, 0, 0.774)),
+    url("../img/37-372161_library-wallpaper-hd-cozy-library.jpg");
+}
+footer {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.767), rgba(0, 0, 0, 0.836));
+}
+a {
+  text-decoration-line: none;
+  color: white;
+}
+p {
+  color: azure;
+}
+h1,
+h2,
+h3 {
+  color: azure;
+}
+.card {
+  background-color: #165c3b49;
+  border-radius: 20px;
+}
+li {
+  margin-top: 15px;
+}
+/* .carousel {
+  height: 90vh;
+} */
+.row-border {
+}

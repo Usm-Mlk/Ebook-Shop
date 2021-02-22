@@ -1,0 +1,21 @@
+nav {
+  background-color: #4cb7ca6c;
+}
+body {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.897), rgba(0, 0, 0, 0.623)),
+    url("../img/0-3795_wallpaper-books-library-shelves-lighting-hd-book-library.jpg");
+  background-size: cover;
+}
+footer {
+  background-color: #4cb7ca34;
+}
+a {
+  text-decoration-line: none;
+  color: azure;
+}
+p {
+  color: azure;
+}
+video {
+  width: 100%;
+}
